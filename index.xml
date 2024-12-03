@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gabriel&#39;s Blog</title>
+    <link>https://example.com/</link>
+    <description>Recent content on Gabriel&#39;s Blog</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 03 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My Insane Blog Pipeline</title>
+      <link>https://example.com/posts/04_blog/my-insane-blog-pipeline/</link>
+      <pubDate>Tue, 03 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.com/posts/04_blog/my-insane-blog-pipeline/</guid>
+      <description>&lt;p&gt;Hello this is pretty cool test of this new functionality. Hello there my dearest friend.&lt;/p&gt;&#xA;&lt;h1 id=&#34;yoooooooo&#34;&gt;yoooooooo&lt;/h1&gt;&#xA;&lt;p&gt;$$ggs&#xA;##my broski&#xA;$$&lt;/p&gt;&#xA;&lt;h2 id=&#34;ggs&#34;&gt;ggs&lt;/h2&gt;&#xA;&lt;p&gt;&lt;em&gt;good morning&lt;/em&gt;&#xA;**good morning&lt;/p&gt;&#xA;&lt;p&gt;!&lt;img src=&#34;https://example.com/images/CS_Alacritty_2024_12_03.png&#34; alt=&#34;Image Description&#34;&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
