@@ -1,0 +1,65 @@
+baseurl = "https://example.com"
+defaultContentLanguage = "en"
+languageCode = "en"
+title = "Gabriel's Blog"
+theme = "dream"
+
+# [services]
+
+
+[params]
+# zenMode = false
+
+lightTheme = "emerald"
+darkTheme = "forest"
+
+# backgroundImage = "me/background.jpg"
+# backgroundImageDark = ""
+
+author = "Gabriel"
+# description = ""
+# avatar = "img/avatar.png"
+headerTitle = "Gabriel's Blog"
+# motto = ""
+
+# footerBottomText = ""
+
+# rss = true
+
+# utterancesRepo = ""
+
+# valine = true
+# LEANCLOUD_APP_ID = ""
+# LEANCLOUD_APP_KEY = ""
+
+# waline = true
+# walineServer = ""
+
+# email = ""
+
+siteStartYear = 2024
+
+# favicon = "favicon.ico"
+
+# Syntax highlighting
+# customSyntaxHighlighting = true
+
+# options
+# stickyNav = true
+# reorderNavItems = ["search", "rss", "posts", "categories", "tags"]
+# collapseNavItems = ["posts", "categories", "tags"]
+# noDefaultSummaryCover = true
+# showTableOfContents = true
+# showSummaryCoverInPost = true
+# showPrevNextPost = true
+# reorderShares = ["x", "facebook", "whatsapp"]
+
+# [params.navItems]
+
+# [params.advanced]
+# customCSS = ["css/custom.css"]
+# customJS = []
+
+# [params.experimental]
+# jsDate = true
+# jsDateFormat = "yyyy年MM月dd日"
