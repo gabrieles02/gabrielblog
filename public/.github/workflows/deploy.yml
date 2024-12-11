@@ -33,7 +33,7 @@ jobs:
           SSH_KEY: ${{ secrets.SSH_PRIVATE_KEY }}
 
       - name: Send files
-        run: "rsync --delete -avO -e 'ssh -p 2233' ${{ env.RSYNC_FLAGS }} --exclude-from=${{ env.EXCLUDES }} ./ ${{ env.SSH_USER }}@${{ env.SSH_HOST }}:${{ env.DESTINATION }}"
+        run: "rsync --delete -avO -e 'ssh -p 22' ${{ env.RSYNC_FLAGS }} --exclude-from=${{ env.EXCLUDES }} ./ ${{ env.SSH_USER }}@${{ env.SSH_HOST }}:${{ env.DESTINATION }}"
         env:
           RSYNC_FLAGS: "" #--dry-run
           EXCLUDES: bin/rsync-excludes.txt
