@@ -23,7 +23,7 @@ jobs:
           echo "$SSH_KEY" > ~/.ssh/deploy.key
           chmod 600 ~/.ssh/deploy.key
           cat >>~/.ssh/config <<END
-          Host go2
+          Host s27
             HostName $SSH_HOST
             User $SSH_USER
             IdentityFile ~/.ssh/deploy.key
